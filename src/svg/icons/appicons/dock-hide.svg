@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>2-square</title>
+  <g id="_2-square" data-name="2-square">
+    <g id="_2-square-2" data-name="2-square">
+      <path d="M43,45H5a3,3,0,0,1-3-3V6A3,3,0,0,1,5,3H43a3,3,0,0,1,3,3V42A3,3,0,0,1,43,45ZM5,5A1,1,0,0,0,4,6V42a1,1,0,0,0,1,1H43a1,1,0,0,0,1-1V6a1,1,0,0,0-1-1Z"/>
+    </g>
+  </g>
+</svg>

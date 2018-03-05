@@ -1,0 +1,40 @@
+{
+  "name": "ui-assets",
+  "version": "0.1.0",
+  "title": "UI Assets",
+  "description": "datasapiens Front-end assets library",
+  "company": {
+    "name": "datasapiens a.s.",
+    "url": "https://www.datasapiens.co.uk"
+  },
+  "main": "",
+  "scripts": {
+    "build": "grunt dist",
+    "start": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datasapiens/ui-assets.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bump": "^0.8.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-conventional-changelog": "^6.1.0",
+    "grunt-cwebp": "^2.1.1",
+    "grunt-prompt": "^1.3.3",
+    "grunt-shell": "^2.1.0",
+    "grunt-webfont": "^1.6.0",
+    "jit-grunt": "^0.10.0",
+    "load-grunt-config": "^0.19.2",
+    "lodash": "^4.17.5",
+    "time-grunt": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=9.6",
+    "npm": ">=5.6"
+  }
+}

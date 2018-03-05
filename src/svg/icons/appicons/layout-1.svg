@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>2-square-d</title>
+  <g id="_2-square-d" data-name="2-square-d">
+    <path d="M43,3H5A3,3,0,0,0,2,6V42a3,3,0,0,0,3,3H43a3,3,0,0,0,3-3V6A3,3,0,0,0,43,3ZM25,19H44V29H25ZM44,6V17H25V5H43A1,1,0,0,1,44,6ZM4,42V6A1,1,0,0,1,5,5H23V43H5A1,1,0,0,1,4,42Zm39,1H25V31H44V42A1,1,0,0,1,43,43Z"/>
+  </g>
+</svg>

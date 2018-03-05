@@ -1,0 +1,13 @@
+/**
+ * Component <%= fontFamilyName %> settings.
+ * NOTE: This is generated from template by 'grunt-webfont' task.
+ */
+
+// =============================================================================
+// <%= fontFamilyName %> settings
+// =============================================================================
+
+// Set icon glyphs list.
+$<%= fontBaseName %>-glyphs: <% for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { %>
+    "\<%= codepoints[glyphIdx] %>" <%= glyphs[glyphIdx] %><%= ',' %><% } %>
+;

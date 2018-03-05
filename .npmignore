@@ -1,0 +1,8 @@
+# Ignored files.
+# @link https://docs.npmjs.com/files/package.json
+
+**/.*
+*.sublime-*
+Gruntfile.*
+grunt
+src

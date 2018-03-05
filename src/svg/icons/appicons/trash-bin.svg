@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>trash</title>
+  <g id="trash">
+    <g>
+      <rect x="23" y="14" width="2" height="26"/>
+      <rect x="16" y="13.962" width="2" height="26.077" transform="translate(-2.021 1.383) rotate(-4.399)"/>
+      <rect x="17.962" y="26" width="26.077" height="2" transform="translate(1.689 55.825) rotate(-85.576)"/>
+      <path d="M42,7H33V5a3,3,0,0,0-3-3H18a3,3,0,0,0-3,3V7H6V9H7.1l3.623,34.42A3.992,3.992,0,0,0,14.7,47H33.3a3.992,3.992,0,0,0,3.979-3.581L40.9,9H42ZM17,5a1,1,0,0,1,1-1H30a1,1,0,0,1,1,1V7H17ZM35.289,43.209A2,2,0,0,1,33.3,45H14.7a2,2,0,0,1-1.99-1.79L9.11,9H38.89Z"/>
+    </g>
+  </g>
+</svg>

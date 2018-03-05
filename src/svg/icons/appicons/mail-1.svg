@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>card</title>
+  <g id="card">
+    <g>
+      <path d="M43,7H5a3,3,0,0,0-3,3V39a3,3,0,0,0,3,3H43a3,3,0,0,0,3-3V10A3,3,0,0,0,43,7Zm1,32a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V10A1,1,0,0,1,5,9H43a1,1,0,0,1,1,1Z"/>
+      <path d="M39,13H31a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V14A1,1,0,0,0,39,13Zm-1,7H32V15h6Z"/>
+      <rect x="8" y="26" width="8" height="2"/>
+      <rect x="8" y="30" width="15" height="2"/>
+      <rect x="8" y="34" width="15" height="2"/>
+    </g>
+  </g>
+</svg>

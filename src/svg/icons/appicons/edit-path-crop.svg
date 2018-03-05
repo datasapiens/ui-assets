@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>move-dash</title>
+  <g id="move-dash">
+    <g>
+      <rect x="36" y="17" width="4" height="2"/>
+      <path d="M45,17H43v2h1v1h2V18A1,1,0,0,0,45,17Z"/>
+      <rect x="44" y="22.875" width="2" height="3.833"/>
+      <rect x="44" y="36.292" width="2" height="3.833"/>
+      <rect x="44" y="29.583" width="2" height="3.834"/>
+      <path d="M44,44H43v2h2a1,1,0,0,0,1-1V43H44Z"/>
+      <rect x="29.583" y="44" width="3.833" height="2"/>
+      <rect x="22.875" y="44" width="3.833" height="2"/>
+      <rect x="36.292" y="44" width="3.833" height="2"/>
+      <path d="M19,43H17v2a1,1,0,0,0,1,1h2V44H19Z"/>
+      <rect x="17" y="36" width="2" height="4"/>
+      <path d="M17,30a1,1,0,0,0,1,1H17v2h2V31H30a1,1,0,0,0,1-1V19h2V17H31v1a1,1,0,0,0-1-1h1V15H29v2H18a1,1,0,0,0-1,1V29H15v2h2ZM29,19V29H19V19Z"/>
+      <rect x="8" y="29" width="4" height="2"/>
+      <path d="M4,28H2v2a1,1,0,0,0,1,1H5V29H4Z"/>
+      <rect x="2" y="21.292" width="2" height="3.833"/>
+      <rect x="2" y="7.875" width="2" height="3.833"/>
+      <rect x="2" y="14.583" width="2" height="3.834"/>
+      <path d="M2,3V5H4V4H5V2H3A1,1,0,0,0,2,3Z"/>
+      <rect x="21.292" y="2" width="3.833" height="2"/>
+      <rect x="14.583" y="2" width="3.833" height="2"/>
+      <rect x="7.875" y="2" width="3.833" height="2"/>
+      <path d="M29,5h2V3a1,1,0,0,0-1-1H28V4h1Z"/>
+      <rect x="29" y="8" width="2" height="4"/>
+    </g>
+  </g>
+</svg>

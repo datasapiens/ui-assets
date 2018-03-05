@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>flat-tv</title>
+  <g id="flat-tv">
+    <path d="M43,4H5A4,4,0,0,0,1,8V37a1,1,0,0,0,1,1H23v5H18a1,1,0,0,0,0,2H30a1,1,0,0,0,0-2H25V38H46a1,1,0,0,0,1-1V8A4,4,0,0,0,43,4ZM3,8A2,2,0,0,1,5,6H43a2,2,0,0,1,2,2V31H3ZM45,36H3V33H45Z" fill="#080808"/>
+  </g>
+</svg>

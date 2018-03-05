@@ -1,0 +1,29 @@
+# Ignored files.
+# @link https://git-scm.com/docs/gitignore
+
+# Wildcard `/folder/**/*.abc` works since git 1.8.4 (msysgit 1.8.2).
+# @see http://goo.gl/wo6TlD
+
+.cache
+.tmp
+build
+public
+test
+
+
+# ##############################################################################
+# Specific patterns
+# ##############################################################################
+
+# IDE
+.vscode
+.idea
+*.sublime-*
+
+# node
+node_modules
+npm-debug.log
+
+# OS
+.DS_Store
+Thumbs.db

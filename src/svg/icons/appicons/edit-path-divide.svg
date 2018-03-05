@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>block</title>
+  <g id="block">
+    <g>
+      <rect x="22.667" y="29" width="2.667" height="2"/>
+      <path d="M29,29H28v2h2a1,1,0,0,0,1-1V28H29Z"/>
+      <rect x="29" y="22.666" width="2" height="2.667"/>
+      <polygon points="31 19 31 18 31 17 29 17 29 18 29 19 29 20 31 20 31 19"/>
+      <path d="M3,3H29V15h2V2a1,1,0,0,0-1-1H2A1,1,0,0,0,1,2V30a1,1,0,0,0,1,1H15V29H3Z"/>
+      <path d="M45,17H33v2H44V45H18V33H16V46a1,1,0,0,0,1,1H45a1,1,0,0,0,1-1V18A1,1,0,0,0,45,17Z"/>
+      <rect x="23" y="17" width="3" height="2"/>
+      <path d="M20,17H18a1,1,0,0,0-1,1v2h2V19h1Z"/>
+      <rect x="17" y="23" width="2" height="3"/>
+      <polygon points="17 31 18 31 19 31 20 31 20 29 19 29 18 29 17 29 17 31"/>
+    </g>
+  </g>
+</svg>
