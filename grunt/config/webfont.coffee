@@ -38,7 +38,7 @@ module.exports = (grunt) ->
             fontFilename: 'sapiens-appicons'
         src: '<%= path.temp %>/svg/icons/appicons/*.svg'
         dest: '<%= path.dist %>/fonts'
-        destCss: '<%= path.dist %>/stylesheets'
+        destCss: '<%= path.dist %>/stylesheets/settings'
 
     webicons:
         options:
@@ -53,4 +53,4 @@ module.exports = (grunt) ->
             fontFilename: 'sapiens-webicons'
         src: '<%= path.temp %>/svg/icons/webicons/*.svg'
         dest: '<%= path.dist %>/fonts'
-        destCss: '<%= path.dist %>/stylesheets'
+        destCss: '<%= path.dist %>/stylesheets/settings'
