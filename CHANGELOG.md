@@ -1,3 +1,12 @@
+<a name="1.2.0"></a>
+## 1.2.0 (2018-10-02)
+
+#### Features
+
+- **appicons:** add `nc-alert-circle-que` ([373f761](https://github.com/datasapiens/ui-assets/commit/373f761))
+
+
+
 <a name="1.1.0"></a>
 ## 1.1.0 (2018-08-15)
 
